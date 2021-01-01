@@ -2,15 +2,27 @@
 ![](https://k8gege.github.io/k8img/Ladon/Dragon.jpg)
 
 [![Author](https://img.shields.io/badge/Author-k8gege-blueviolet)](https://github.com/k8gege) 
-[![Ladon](https://img.shields.io/badge/Ladon-7.0-yellowgreen)](https://github.com/k8gege/Ladon) 
+[![Ladon](https://img.shields.io/badge/Ladon-7.7-yellowgreen)](https://github.com/k8gege/Ladon) 
 [![Bin](https://img.shields.io/badge/Ladon-Bin-ff69b4)](https://github.com/k8gege/Ladon/releases) 
 [![GitHub issues](https://img.shields.io/github/issues/k8gege/Ladon)](https://github.com/k8gege/Ladon/issues) 
 [![Github Stars](https://img.shields.io/github/stars/k8gege/Ladon)](https://github.com/k8gege/Ladon) 
 [![GitHub forks](https://img.shields.io/github/forks/k8gege/Ladon)](https://github.com/k8gege/Ladon)
 [![GitHub license](https://img.shields.io/github/license/k8gege/Ladon)](https://github.com/k8gege/Ladon)
 
-### Cobalt Strike
+### Ladon For Cobalt Strike
 <img src=https://k8gege.github.io/k8img/Ladon/CS_Ladon.gif></img>
+
+### Ladon 7.7 For Cobalt Strike 中文GUI
+#### 信息收集/存活主机/服务识别/端口扫描<br>
+![image](http://k8gege.org/k8img/Ladon/cs/Gui_Discover.PNG)
+#### 高危漏洞检测
+![image](http://k8gege.org/k8img/Ladon/cs/Gui_Vulcheck.PNG)
+#### 网络服务密码爆破
+![image](http://k8gege.org/k8img/Ladon/cs/Gui_BruteFor.PNG)
+#### 远程执行/横向移动
+![image](http://k8gege.org/k8img/Ladon/cs/Gui_RemoteExec.PNG)
+#### MSF、NC联动/一键反弹
+![image](http://k8gege.org/k8img/Ladon/cs/Gui_Msfnc.PNG)
 
 ### 程序简介
 
@@ -363,8 +375,11 @@ Ladon sc c:\123.exe auto ServerName
 
 ### 工具下载
 
-最新版本：https://k8gege.org/Download
 历史版本: https://github.com/k8gege/Ladon/releases
 
-
+### 最新版
+最新版在小密圈：http://k8gege.org/Ladon/update.txt
+<div style="text-align: center; width: 710px; border: green solid 0px;">
+<img alt="" src="http://k8gege.org/img/k8team.jpg" style="display: inline-block;width: 250px;height: 300px;" />
+</div>
 
